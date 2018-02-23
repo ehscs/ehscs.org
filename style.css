@@ -1,0 +1,98 @@
+.ehsnav {
+    background-color: #005A9B;
+    color: #f2f2f2;
+}
+
+.ehsbrand, .ehsbrand:link, .ehsbrand:hover {
+    color: #f2f2f2;
+    font-weight: bolder;
+}
+
+.ehsnavbgcolor {
+    background-color: #005A9B;
+}
+
+.ehsnavtext, .ehsnavtext:link, .ehsnavtext:hover {
+    color: #f2f2f2;
+}
+
+.ehsjumbo {
+    margin-bottom: 0px;
+    background-color: #e2e2e2;
+}
+
+.ehsjumbotext {
+    color: #005A9B;
+    text-align: center;
+}
+
+.ehsrowmargin {
+    margin-top: 32px;
+    margin-bottom: 0px;
+}
+
+.textthing {
+    color: white;
+}
+
+.alertbgc {
+    background-color: #fffcb3;
+}
+
+.alerttext {
+    color: black;
+}
+
+body {
+    background-color: #f2f2f2;
+}
+
+.ehstodo {
+    background-color: #b3dfff;
+    color: black;
+}
+
+.ehshr {
+    background-color: black;
+    height: 2px; 
+    border: 0;
+}
+
+.ehsfooter {
+    margin-top: 32px;
+    padding: 16px;
+    background-color: #e2e2e2;
+    color: black;
+    bottom: 0;
+    position: absolute;
+    width: 100%;
+    margin-bottom: 0px;
+}
+
+.githubicon {
+    width: 16px;
+    height: auto;
+    margin-bottom: 4px;
+}
+
+.bootstrapicon {
+    width: 16px;
+    height: auto;
+    margin-bottom: 2px;
+}
+
+.bracketsicon {
+    width: 18px;
+    height: auto;
+    margin-bottom: 1px;
+}
+
+.footertext, .footertext:link, .footertext:hover {
+    color: #666666;
+    padding: 8px;
+    vertical-align: middle;
+}
+
+head {
+    background-color: #005A9B;
+}
