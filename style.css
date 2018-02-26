@@ -44,7 +44,7 @@
 }
 
 body {
-    background-color: #f2f2f2;
+    background-color: #e2e2e2;
 }
 
 .ehstodo {
@@ -63,10 +63,6 @@ body {
     padding: 16px;
     background-color: #e2e2e2;
     color: black;
-    bottom: 0;
-    position: absolute;
-    width: 100%;
-    margin-bottom: 0px;
 }
 
 .githubicon {
@@ -79,18 +75,24 @@ body {
     width: 16px;
     height: auto;
     margin-bottom: 2px;
+    filter: saturate(0%);
 }
 
 .bracketsicon {
     width: 18px;
     height: auto;
     margin-bottom: 1px;
+    filter: saturate(0%);
 }
 
 .footertext, .footertext:link, .footertext:hover {
     color: #666666;
     padding: 8px;
     vertical-align: middle;
+}
+
+.mainbg {
+    background-color: #f2f2f2;
 }
 
 head {
