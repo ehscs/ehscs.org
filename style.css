@@ -14,6 +14,7 @@
 
 .ehsnavtext, .ehsnavtext:link, .ehsnavtext:hover {
     color: #f2f2f2;
+    margin-right: 12px;
 }
 
 .ehsjumbo {
