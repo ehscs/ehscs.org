@@ -86,6 +86,17 @@ body {
     filter: saturate(0%);
 }
 
+.projectpicture {
+    width: 128px;
+    height: auto;
+    border: 2px;
+    border-style: solid;
+    border-color: black;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 .footertext, .footertext:link, .footertext:hover {
     color: #666666;
     padding: 8px;
